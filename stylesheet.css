@@ -132,7 +132,7 @@ a {
 
 .card {
     width: 200px;
-    margin-bottom: 50px;
+    margin-bottom: 90px;
     
 }
 
@@ -159,4 +159,35 @@ a {
     font-size: 17px;
     line-height: 100%;
     text-align: center;
+}
+
+
+/* section 3 */
+
+.section-3 {
+    background-color: #e5e7eb;
+}
+
+.sec-3-wrapper {
+    max-width: 900px;
+    margin: auto;
+    padding: 150px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.main-quote {
+    text-align: left;
+}
+
+h4 {
+    margin: 0;
+    font-weight: 250;
+    font-size: 36px;
+    font-style: italic;
+}
+
+h3 {
+    margin: 0;
 }
